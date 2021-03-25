@@ -170,7 +170,7 @@
     background-color: transparent;
 }
 .contentRegion-3nDuYy {
-    background-color: transparent;
+    background: transparent;
 }
 .background-1QDuV2 {
     background-color: rgba(0, 0, 0, 0.441);
@@ -223,4 +223,7 @@
 }
 .tertiary-aMXF0g {
     background-color: #4c0e0e;
+}
+.wrapper-3NnKdC {
+	background-color: transparent;
 }
