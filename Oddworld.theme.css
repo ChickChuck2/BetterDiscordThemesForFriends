@@ -1,0 +1,88 @@
+/**
+ * @name Oddworld
+ * @author ChickChuck2
+ * @authorId 462768330005282816
+ * @version 0.01
+ * @description Oddworld Não sei se é jogo, ou filme, mas e pro Mr.PresttoSauce
+*/
+
+.app-2rEoOp {
+    background-color: transparent;
+}
+.bg-h5JY_x {
+    background-color: transparent;
+}
+.chat-3bRxxu, .threadSidebar-1o3BTy {
+    background-color: transparent;
+}
+.container-2lgZY8 {
+    background-image: url("https://image.api.playstation.com/vulcan/img/rnd/202103/2509/K3XQRdwa0G7WHvl3oVigHnUN.jpg");
+    background-size: cover;
+}
+.scroller-1JbKMe {
+    background-color: transparent;
+}
+.searchBar-6Kv8R2 .searchBarComponent-32dTOx {
+    background-color: rgba(0, 0, 0, 0.342);
+}
+.sidebar-2K8pFh {
+    background: transparent;
+}
+.container-1r6BKw.themed-ANHk51 {
+    background-color: transparent;
+}
+.children-19S4PO:after {
+    position: unset;
+}
+.privateChannels-1nO12o {
+    background-color: rgba(0, 0, 0, 0.342);
+}
+.wrapper-3NnKdC {
+    background-color: transparent;
+}
+.scroller-1Bvpku {
+    background-color: rgba(0, 0, 0, 0.442);
+}
+.wrapper-1BJsBx.selected-bZ3Lue .childWrapper-anI2G9, .wrapper-1BJsBx:hover .childWrapper-anI2G9 {
+    background-color: rgba(0, 0, 0, 0.316);
+}
+.panels-j1Uci_ {
+    background-color: rgba(0, 0, 0, 0.342);
+}
+.scrollableContainer-2NUZem {
+    background-color: transparent;
+}
+.channelTextArea-rNsIhG {
+    background-color: rgba(0, 0, 0, 0.442)
+}
+.searchBar-3dMhjb {
+    background-color: rgba(0, 0, 0, 0.442);
+}
+.selected-aXhQR6 .layout-2DM8Md {
+    background-color: rgba(0, 0, 0, 0.242);
+}
+.theme-dark .container-1D34oG {
+    background-color: transparent;
+}
+.nowPlayingColumn-2sl4cE {
+    background-color: transparent;
+}
+.outer-1AjyKL {
+    background-color: rgba(0, 0, 0, 0.442);
+}
+.container-cMG81i {
+    background-color: rgba(0, 0, 0, 0.442);
+}
+.container-3w7J-x {
+    background-color: rgba(0, 0, 0, 0.242);
+}
+.members-1998pB, .members-1998pB>div {
+    background-color: rgba(0, 0, 0, 0.242);
+}
+.childWrapper-anI2G9 {
+    background-color: rgba(0, 0, 0, 0.342);
+}
+.theme-dark {
+    --scrollbar-auto-track: transparent;
+    
+}
