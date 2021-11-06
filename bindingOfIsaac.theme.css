@@ -38,7 +38,7 @@
     background-color: rgba(66, 7, 7, 0.26);
 }
 .wrapper-1BJsBx.selected-bZ3Lue .childWrapper-anI2G9, .wrapper-1BJsBx:hover .childWrapper-anI2G9 {
-    background-color: #c74c4c50;
+    background: linear-gradient(45deg, #942222, transparent);
 }
 .panels-j1Uci_ {
     background-color: rgba(0, 0, 0, 0.421);
@@ -241,4 +241,10 @@
 }
 .profileBanner-33-uE1{
     background-color: transparent !important;
+}
+.container-2wlB3z {
+    background: #00000099;
+}
+#bd-pub-button {
+    background: linear-gradient(45deg, #942222, transparent);
 }
