@@ -1,0 +1,130 @@
+/**
+ * @name Jotaro
+ * @author ChickChuck2
+ * @version ersion auto update
+ * @description JOTARO KUN
+ * @authorId 462768330005282816
+*/
+
+.bg-h5JY_x {
+    background-color: transparent;
+}
+
+.app-2rEoOp {
+    background-image: url("https://images3.alphacoders.com/716/716943.jpg");
+    background-size: cover;
+}
+.wrapper-3NnKdC,
+.sidebar-2K8pFh,
+.chat-3bRxxu, .threadSidebar-1o3BTy,
+.privateChannels-1nO12o,
+.scroller-1JbKMe,
+.panels-j1Uci_,
+.scroller-1Bvpku,
+.container-1r6BKw.themed-ANHk51 {
+    background-color: transparent;
+}
+
+/*Configs*/
+.sidebarRegionScroller-3MXcoP,
+.contentRegion-3nDuYy,
+.contentRegionScroller-26nc1e {
+    background-color: transparent;
+}
+.standardSidebarView-3F1I7i {
+    background-image: url("https://images3.alphacoders.com/836/836764.png");
+}
+/*config user example user profile*/
+.accountProfileCard-1XCH88,
+.background-1QDuV2,
+.fieldList-21DyL8 {
+    background-color: rgba(0, 0, 0, 0.4);
+}
+/*Texts*/
+.brand-1Zl8en.item-PXvHYJ, .themed-OHr7kt.item-PXvHYJ,
+.header-2RyJ0Y,
+.cozy-3raOZG .messageContent-2qWWxC,
+.name-uJV0GL,
+.activity-525YDR,
+.headerText-2F0828,
+.name-23GUGE{
+    font-variant: normal;
+    text-shadow: 
+    2px 0 0 rgb(0, 0, 0),
+    -2px 0 0 rgb(0, 0, 0), 
+    0 2px 0 rgb(0, 0, 0), 
+    0 -2px 0 rgb(0, 0, 0),
+    1px 1px rgb(0, 0, 0), 
+    -1px -1px 0 rgb(0, 0, 0), 
+    1px -1px 0 rgb(0, 0, 0), 
+    -1px 1px 0 rgb(0, 0, 0);
+}
+.embedFull-2tM8-- {
+    background-color: rgba(0, 0, 0, 0.4);
+}
+.textArea-12jD-V {
+    background-color: transparent;
+}
+.scrollableContainer-2NUZem {
+    background: linear-gradient(75deg, rgba(50, 33, 128, 0.5), rgba(17, 0, 255, 0.5))
+}
+.channelTextArea-rNsIhG {
+    background-color: transparent;
+}
+.searchBar-6Kv8R2 .searchBarComponent-32dTOx {
+    background-color: rgba(0, 0, 0, 0.4);
+}
+#bd-pub-button {
+    background-color: rgba(0, 0, 0, 0.4);
+}
+.wrapper-1BJsBx.selected-bZ3Lue .childWrapper-anI2G9, .wrapper-1BJsBx:hover .childWrapper-anI2G9 {
+    color: rgb(18, 110, 196);
+    background-color: transparent;
+}
+.searchBar-3dMhjb {
+    background-color: rgba(0, 0, 0, 0.4);
+}
+.childWrapper-anI2G9 {
+    background-color: transparent;
+}
+.container-3w7J-x {
+    background-color: transparent;
+}
+.members-1998pB, .members-1998pB>div,
+.container-2wlB3z {
+    background-color: rgba(0, 0, 0, 0.2);
+}
+.content-1o0f9g {
+    background-color: rgba(0, 0, 0, 0.2);
+    
+}
+.wrapper-2aW0bm,.button-1ZiXG9 {
+    background-color: rgba(0, 0, 0, 0.4);
+}
+.menu-3sdvDG {
+    background-color: rgba(0, 0, 0, 0.4);
+}
+/*Friends*/
+.container-1r6BKw.themed-ANHk51,
+.theme-dark .container-1D34oG,
+.container-lRFx4q,
+.nowPlayingColumn-2sl4cE {
+    background-color: transparent;
+}
+.wrapper-3D2qGf,
+.section-2gLsgF,
+.theme-dark .inset-3sAvek {
+    background-color: rgba(0, 0, 0, 0.2);
+}
+.theme-dark .outer-1AjyKL.active-1xchHY, .theme-dark .outer-1AjyKL.interactive-3B9GmY:hover {
+    background-color: rgba(0, 0, 0, 0.6);
+}
+.actionButton-uPB8Fs {
+    background-color: rgba(0, 0, 0, 0.4);
+}
+.actionButton-uPB8Fs.highlight-Lf97TE {
+    background-color: rgba(0, 0, 0, 0.6);
+}
+.container-cMG81i {
+    background-color: rgba(0, 0, 0, 0.4);
+}
