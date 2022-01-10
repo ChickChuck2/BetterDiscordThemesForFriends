@@ -1,0 +1,165 @@
+.container-2lgZY8 {
+    background-image: url("https://raw.githubusercontent.com/ChickChuck2/BetterDiscordThemesForFriends/main/images/nezuko/chatimage.jpg");
+    background-size: cover;
+}
+
+
+/*Transparent*/
+.sidebar-2K8pFh,
+.privateChannels-1nO12o,
+.scroller-1JbKMe,
+.chat-3bRxxu, .threadSidebar-1o3BTy,
+.container-1r6BKw.themed-ANHk51,
+.scroller-1Bvpku,
+.wrapper-3NnKdC {
+   background-color: transparent;
+}
+/*very low transparency*/
+.searchBar-6Kv8R2 .searchBarComponent-32dTOx {
+   background-color: rgba(0, 0, 0, 0.2);
+}
+/*0.3*/
+.panels-j1Uci_,
+.searchBar-3dMhjb {
+   background-color: rgba(0, 0, 0, 0.3);
+}
+
+.children-19S4PO:after {
+   position: unset;
+}
+.wrapper-1BJsBx.selected-bZ3Lue .childWrapper-anI2G9, .wrapper-1BJsBx:hover .childWrapper-anI2G9 {
+   background-color: rgba(0, 0, 0, 0.5);
+}
+
+.scrollableContainer-2NUZem {
+   background-color: transparent;
+}
+.channelTextArea-rNsIhG {
+   background-color: rgba(0, 0, 0, 0.5);
+}
+
+.theme-dark {
+   --scrollbar-thin-thumb: rgba(0,0,0,0.4);
+   --scrollbar-auto-thumb: rgba(0,0,0,0.8);
+   --scrollbar-auto-track: transparent;
+}
+
+.container-1r6BKw.themed-ANHk51 {
+   background-color: transparent;
+}
+.theme-dark .container-1D34oG {
+   background-color: transparent;
+}
+.container-lRFx4q {
+   background-color: transparent;
+}
+.nowPlayingColumn-2sl4cE {
+   background-color: transparent;
+}
+.wrapper-3D2qGf {
+   background-color: rgba(0, 0, 0, 0.3);
+}
+.section-2gLsgF {
+   background-color: rgba(0, 0, 0, 0.3);
+}
+.theme-dark .inset-3sAvek {
+   background-color: rgba(0, 0, 0, 0.3);
+}
+.actionButton-uPB8Fs {
+   background-color: rgba(0, 0, 0, 0.5);
+}
+.actionButton-uPB8Fs:hover {
+   background-color: rgba(0, 0, 0, 0.7);
+}
+.actionButton-uPB8Fs.highlight-Lf97TE {
+   background-color: rgba(0, 0, 0, 0.5);
+}
+.container-cMG81i {
+   background-color: rgba(0, 0, 0, 0.5);
+}
+
+.container-3w7J-x {
+   background-color: transparent;
+}
+.childWrapper-anI2G9 {
+   background-color: rgba(0, 0, 0, 0.5);
+}
+.members-1998pB, .members-1998pB>div {
+   background-color: rgba(0, 0, 0, 0.2);
+}
+.container-2wlB3z {
+   background-color: transparent;
+}
+
+.cozy-3raOZG .messageContent-2qWWxC {
+   color: white;
+   text-shadow: 
+   2px 0 0 rgb(0, 0, 0),
+   -2px 0 0 rgb(0, 0, 0), 
+   0 2px 0 rgb(0, 0, 0), 
+   0 -2px 0 rgb(0, 0, 0),
+   1px 1px rgb(0, 0, 0), 
+   -1px -1px 0 rgb(0, 0, 0), 
+   1px -1px 0 rgb(0, 0, 0), 
+   -1px 1px 0 rgb(0, 0, 0);
+}
+.standardSidebarView-3F1I7i {
+   background-image: url("https://raw.githubusercontent.com/ChickChuck2/BetterDiscordThemesForFriends/main/images/nezuko/configimage.jpg");
+   background-size: cover;
+}
+.sidebarRegionScroller-3MXcoP {
+   background-color: transparent;
+}
+.contentRegionScroller-26nc1e,
+.contentRegion-3nDuYy {
+   background-color: transparent;
+}
+.accountProfileCard-1XCH88,
+.background-1QDuV2,
+.fieldList-21DyL8 {
+   background-color: rgba(0, 0, 0, 0.3);
+}
+.wrapper-2jXpOf, .container-3iAQ-0, .container-2Pjhx-, .membersGroup-v9BXpm[data-index], .peopleListItem-2nzedh, .header-2RyJ0Y, .channel-2QD9_O, .privateChannelsHeaderContainer-3NB1K1, .side-8zPYf6 .item-PXvHYJ, .focusLock-Ns3yie .scrollerBase-289Jih:not(.bd-addon-modal-settings) > div,
+.headerTagUsernameNoNickname-2-Y5Ct,
+a, button, div, input, label, select, span, strong, textarea {
+   text-shadow: 
+   2px 0 0 rgb(0, 0, 0),
+   -2px 0 0 rgb(0, 0, 0), 
+   0 2px 0 rgb(0, 0, 0), 
+   0 -2px 0 rgb(0, 0, 0),
+   1px 1px rgb(0, 0, 0), 
+   -1px -1px 0 rgb(0, 0, 0), 
+   1px -1px 0 rgb(0, 0, 0), 
+   -1px 1px 0 rgb(0, 0, 0);
+}
+.userPopout-xaxa6l {
+   background-image: url("https://wallpaper.dog/large/20483517.jpg");
+   background-size: cover;
+}
+.footer-3UKYOU {
+   background-color: transparent;
+}
+.bodyInnerWrapper-26fQXj {
+   background-color: transparent;
+}
+.input-2_SIlA {
+   background-color: rgba(255, 0, 0, 0.1);
+}
+.popoutBanner-19WKGg {
+   background-color: transparent !important;
+}
+.avatar-37jOim {
+   background-color: transparent;
+   border-color: transparent;
+}
+.root-1gCeng {
+   background-image: url("https://wallpaper.dog/large/20483507.jpg") !important;
+   background-position-y: 199px;
+   background-size: cover;
+}
+.body-r6_QPy, .topSection-y3p-_D {
+   background-color: transparent;
+}
+.interactive-3B9GmY:hover {
+   background-color: rgba(0, 0, 0, 0.5) !important;
+}
