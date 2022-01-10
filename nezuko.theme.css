@@ -47,8 +47,8 @@
 .container-1r6BKw.themed-ANHk51 {
    background-color: transparent;
 }
-.theme-dark .container-1D34oG {
-   background-color: transparent;
+.container-1D34oG {
+   background-color: transparent !important;
 }
 .container-lRFx4q {
    background-color: transparent;
@@ -62,8 +62,8 @@
 .section-2gLsgF {
    background-color: rgba(0, 0, 0, 0.3);
 }
-.theme-dark .inset-3sAvek {
-   background-color: rgba(0, 0, 0, 0.3);
+.inset-3sAvek {
+   background-color: rgba(0, 0, 0, 0.3) !important;
 }
 .actionButton-uPB8Fs {
    background-color: rgba(0, 0, 0, 0.5);
