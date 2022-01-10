@@ -120,8 +120,7 @@
    background-color: rgba(0, 0, 0, 0.3);
 }
 .wrapper-2jXpOf, .container-3iAQ-0, .container-2Pjhx-, .membersGroup-v9BXpm[data-index], .peopleListItem-2nzedh, .header-2RyJ0Y, .channel-2QD9_O, .privateChannelsHeaderContainer-3NB1K1, .side-8zPYf6 .item-PXvHYJ, .focusLock-Ns3yie .scrollerBase-289Jih:not(.bd-addon-modal-settings) > div,
-.headerTagUsernameNoNickname-2-Y5Ct,
-a, button, div, input, label, select, span, strong, textarea {
+.headerTagUsernameNoNickname-2-Y5Ct {
    text-shadow: 
    2px 0 0 rgb(0, 0, 0),
    -2px 0 0 rgb(0, 0, 0), 
@@ -162,4 +161,7 @@ a, button, div, input, label, select, span, strong, textarea {
 }
 .interactive-3B9GmY:hover {
    background-color: rgba(0, 0, 0, 0.5) !important;
+}
+.content-1o0f9g {
+    background-color: transparent;
 }
