@@ -1,53 +1,45 @@
-/**
- * @name Jotaro
- * @author ChickChuck2
- * @version ersion auto update
- * @description JOTARO KUN
- * @authorId 462768330005282816
-*/
-
-.bg-h5JY_x {
+.bg-1QIAus {
     background-color: transparent;
 }
 
-.app-2rEoOp {
+.app-2CXKsg {
     background-image: url("https://images3.alphacoders.com/716/716943.jpg");
     background-size: cover;
 }
-.wrapper-3NnKdC,
-.sidebar-2K8pFh,
-.chat-3bRxxu, .threadSidebar-1o3BTy,
-.privateChannels-1nO12o,
-.scroller-1JbKMe,
-.panels-j1Uci_,
-.scroller-1Bvpku,
-.container-1r6BKw.themed-ANHk51 {
+.wrapper-1_HaEi,
+.sidebar-1tnWFu,
+.chat-2ZfjoI, .threadSidebar-1o3BTy,
+.privateChannels-oVe7HL,
+.scroller-WSmht3,
+.panels-3wFtMD,
+.scroller-3X7KbA,
+.container-ZMc96U.themed-Hp1KC_ {
     background-color: transparent;
 }
 
 /*Configs*/
-.sidebarRegionScroller-3MXcoP,
-.contentRegion-3nDuYy,
-.contentRegionScroller-26nc1e {
+.sidebarRegionScroller-FXiQOh,
+.contentRegion-3HkfJJ,
+.contentRegionScroller-2_GT_N {
     background-color: transparent;
 }
-.standardSidebarView-3F1I7i {
+.standardSidebarView-E9Pc3j {
     background-image: url("https://images3.alphacoders.com/836/836764.png");
 }
 /*config user example user profile*/
-.accountProfileCard-1XCH88,
-.background-1QDuV2,
-.fieldList-21DyL8 {
+.accountProfileCard-lbN7n-,
+.background-3d_SjE,
+.fieldList-in8WkP {
     background-color: rgba(0, 0, 0, 0.4);
 }
 /*Texts*/
-.brand-1Zl8en.item-PXvHYJ, .themed-OHr7kt.item-PXvHYJ,
-.header-2RyJ0Y,
-.cozy-3raOZG .messageContent-2qWWxC,
-.name-uJV0GL,
-.activity-525YDR,
-.headerText-2F0828,
-.name-23GUGE{
+.brand-3g5E0C.item-3XjbnG, .themed-2-lozF.item-3XjbnG,
+.header-2Kx1US,
+.cozy-VmLDNB .messageContent-2t3eCI,
+.name-3Vmqxm,
+.activity-1-H7Zd,
+.headerText-1qIDDT,
+.name-28HaxV{
     font-variant: normal;
     text-shadow: 
     2px 0 0 rgb(0, 0, 0),
@@ -59,72 +51,72 @@
     1px -1px 0 rgb(0, 0, 0), 
     -1px 1px 0 rgb(0, 0, 0);
 }
-.embedFull-2tM8-- {
+.embedFull-1HGV2S {
     background-color: rgba(0, 0, 0, 0.4);
 }
-.textArea-12jD-V {
+.textArea-2CLwUE {
     background-color: transparent;
 }
-.scrollableContainer-2NUZem {
+.scrollableContainer-15eg7h {
     background: linear-gradient(75deg, rgba(50, 33, 128, 0.5), rgba(17, 0, 255, 0.5))
 }
-.channelTextArea-rNsIhG {
+.channelTextArea-1FufC0 {
     background-color: transparent;
 }
-.searchBar-6Kv8R2 .searchBarComponent-32dTOx {
+.searchBar-3TnChZ .searchBarComponent-3N7dCG {
     background-color: rgba(0, 0, 0, 0.4);
 }
 #bd-pub-button {
     background-color: rgba(0, 0, 0, 0.4);
 }
-.wrapper-1BJsBx.selected-bZ3Lue .childWrapper-anI2G9, .wrapper-1BJsBx:hover .childWrapper-anI2G9 {
+.wrapper-3kah-n.selected-1Drb7Z .childWrapper-1j_1ub, .wrapper-3kah-n:hover .childWrapper-1j_1ub {
     color: rgb(18, 110, 196);
     background-color: transparent;
 }
-.searchBar-3dMhjb {
+.searchBar-zdmu7v {
     background-color: rgba(0, 0, 0, 0.4);
 }
-.childWrapper-anI2G9 {
+.childWrapper-1j_1ub {
     background-color: transparent;
 }
-.container-3w7J-x {
+.container-1NXEtd {
     background-color: transparent;
 }
-.members-1998pB, .members-1998pB>div,
-.container-2wlB3z {
+.members-3WRCEx, .members-3WRCEx>div,
+.container-2o3qEW {
     background-color: rgba(0, 0, 0, 0.2);
 }
-.content-1o0f9g {
+.content-3spvdd {
     background-color: rgba(0, 0, 0, 0.2);
     
 }
-.wrapper-2aW0bm,.button-1ZiXG9 {
+.wrapper-2vIMkT,.button-3bklZh {
     background-color: rgba(0, 0, 0, 0.4);
 }
-.menu-3sdvDG {
+.menu-1QACrS {
     background-color: rgba(0, 0, 0, 0.4);
 }
 /*Friends*/
-.container-1r6BKw.themed-ANHk51,
-.theme-dark .container-1D34oG,
-.container-lRFx4q,
-.nowPlayingColumn-2sl4cE {
+.container-ZMc96U.themed-Hp1KC_,
+.theme-dark .container-2cd8Mz,
+.container-1oAagU,
+.nowPlayingColumn-1eCBCN {
     background-color: transparent;
 }
-.wrapper-3D2qGf,
-.section-2gLsgF,
-.theme-dark .inset-3sAvek {
+.wrapper-2RrXDg,
+.section-3G9aLW,
+.theme-dark .inset-SbsSFp {
     background-color: rgba(0, 0, 0, 0.2);
 }
-.theme-dark .outer-1AjyKL.active-1xchHY, .theme-dark .outer-1AjyKL.interactive-3B9GmY:hover {
+.theme-dark .outer-2JOHae.active-1W_Gl9, .theme-dark .outer-2JOHae.interactive-2zD88a:hover {
     background-color: rgba(0, 0, 0, 0.6);
 }
-.actionButton-uPB8Fs {
+.actionButton-3-B2x- {
     background-color: rgba(0, 0, 0, 0.4);
 }
-.actionButton-uPB8Fs.highlight-Lf97TE {
+.actionButton-3-B2x-.highlight-3DSi7b {
     background-color: rgba(0, 0, 0, 0.6);
 }
-.container-cMG81i {
+.container-2oNtJn {
     background-color: rgba(0, 0, 0, 0.4);
 }

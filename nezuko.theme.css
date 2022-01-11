@@ -1,40 +1,40 @@
-.container-2lgZY8 {
+.container-1eFtFS {
     background-image: url("https://raw.githubusercontent.com/ChickChuck2/BetterDiscordThemesForFriends/main/images/nezuko/chatimage.jpg");
     background-size: cover;
 }
 
 
 /*Transparent*/
-.sidebar-2K8pFh,
-.privateChannels-1nO12o,
-.scroller-1JbKMe,
-.chat-3bRxxu, .threadSidebar-1o3BTy,
-.container-1r6BKw.themed-ANHk51,
-.scroller-1Bvpku,
-.wrapper-3NnKdC {
+.sidebar-1tnWFu,
+.privateChannels-oVe7HL,
+.scroller-WSmht3,
+.chat-2ZfjoI, .threadSidebar-1o3BTy,
+.container-ZMc96U.themed-Hp1KC_,
+.scroller-3X7KbA,
+.wrapper-1_HaEi {
    background-color: transparent;
 }
 /*very low transparency*/
-.searchBar-6Kv8R2 .searchBarComponent-32dTOx {
+.searchBar-3TnChZ .searchBarComponent-3N7dCG {
    background-color: rgba(0, 0, 0, 0.2);
 }
 /*0.3*/
-.panels-j1Uci_,
-.searchBar-3dMhjb {
+.panels-3wFtMD,
+.searchBar-zdmu7v {
    background-color: rgba(0, 0, 0, 0.3);
 }
 
-.children-19S4PO:after {
+.children-3xh0VB:after {
    position: unset;
 }
-.wrapper-1BJsBx.selected-bZ3Lue .childWrapper-anI2G9, .wrapper-1BJsBx:hover .childWrapper-anI2G9 {
+.wrapper-3kah-n.selected-1Drb7Z .childWrapper-1j_1ub, .wrapper-3kah-n:hover .childWrapper-1j_1ub {
    background-color: rgba(0, 0, 0, 0.5);
 }
 
-.scrollableContainer-2NUZem {
+.scrollableContainer-15eg7h {
    background-color: transparent;
 }
-.channelTextArea-rNsIhG {
+.channelTextArea-1FufC0 {
    background-color: rgba(0, 0, 0, 0.5);
 }
 
@@ -44,54 +44,54 @@
    --scrollbar-auto-track: transparent;
 }
 
-.container-1r6BKw.themed-ANHk51 {
+.container-ZMc96U.themed-Hp1KC_ {
    background-color: transparent;
 }
-.container-1D34oG {
+.container-2cd8Mz {
    background-color: transparent !important;
 }
-.container-lRFx4q {
+.container-1oAagU {
    background-color: transparent;
 }
-.nowPlayingColumn-2sl4cE {
+.nowPlayingColumn-1eCBCN {
    background-color: transparent;
 }
-.wrapper-3D2qGf {
+.wrapper-2RrXDg {
    background-color: rgba(0, 0, 0, 0.3);
 }
-.section-2gLsgF {
+.section-3G9aLW {
    background-color: rgba(0, 0, 0, 0.3);
 }
-.inset-3sAvek {
+.inset-SbsSFp {
    background-color: rgba(0, 0, 0, 0.3) !important;
 }
-.actionButton-uPB8Fs {
+.actionButton-3-B2x- {
    background-color: rgba(0, 0, 0, 0.5);
 }
-.actionButton-uPB8Fs:hover {
+.actionButton-3-B2x-:hover {
    background-color: rgba(0, 0, 0, 0.7);
 }
-.actionButton-uPB8Fs.highlight-Lf97TE {
+.actionButton-3-B2x-.highlight-3DSi7b {
    background-color: rgba(0, 0, 0, 0.5);
 }
-.container-cMG81i {
+.container-2oNtJn {
    background-color: rgba(0, 0, 0, 0.5);
 }
 
-.container-3w7J-x {
+.container-1NXEtd {
    background-color: transparent;
 }
-.childWrapper-anI2G9 {
+.childWrapper-1j_1ub {
    background-color: rgba(0, 0, 0, 0.5);
 }
-.members-1998pB, .members-1998pB>div {
+.members-3WRCEx, .members-3WRCEx>div {
    background-color: rgba(0, 0, 0, 0.2);
 }
-.container-2wlB3z {
+.container-2o3qEW {
    background-color: transparent;
 }
 
-.cozy-3raOZG .messageContent-2qWWxC {
+.cozy-VmLDNB .messageContent-2t3eCI {
    color: white;
    text-shadow: 
    2px 0 0 rgb(0, 0, 0),
@@ -103,24 +103,24 @@
    1px -1px 0 rgb(0, 0, 0), 
    -1px 1px 0 rgb(0, 0, 0);
 }
-.standardSidebarView-3F1I7i {
+.standardSidebarView-E9Pc3j {
    background-image: url("https://raw.githubusercontent.com/ChickChuck2/BetterDiscordThemesForFriends/main/images/nezuko/configimage2.jpg");
    background-size: cover;
 }
-.sidebarRegionScroller-3MXcoP {
+.sidebarRegionScroller-FXiQOh {
    background-color: transparent;
 }
-.contentRegionScroller-26nc1e,
-.contentRegion-3nDuYy {
+.contentRegionScroller-2_GT_N,
+.contentRegion-3HkfJJ {
    background-color: transparent;
 }
-.accountProfileCard-1XCH88,
-.background-1QDuV2,
-.fieldList-21DyL8 {
+.accountProfileCard-lbN7n-,
+.background-3d_SjE,
+.fieldList-in8WkP {
    background-color: rgba(0, 0, 0, 0.3);
 }
-.wrapper-2jXpOf, .container-3iAQ-0, .container-2Pjhx-, .membersGroup-v9BXpm[data-index], .peopleListItem-2nzedh, .header-2RyJ0Y, .channel-2QD9_O, .privateChannelsHeaderContainer-3NB1K1, .side-8zPYf6 .item-PXvHYJ, .focusLock-Ns3yie .scrollerBase-289Jih:not(.bd-addon-modal-settings) > div,
-.headerTagUsernameNoNickname-2-Y5Ct {
+.wrapper-NhbLHG, .container-iA3Qrz, .container-1oeRFJ, .membersGroup-2eiWxl[data-index], .peopleListItem-u6dGxF, .header-2Kx1US, .channel-1Shao0, .privateChannelsHeaderContainer-1UWASm, .side-2ur1Qk .item-3XjbnG, .focusLock-2tveLW .scrollerBase-_bVAAt:not(.bd-addon-modal-settings) > div,
+.headerTagUsernameNoNickname-1TjuLc {
    text-shadow: 
    2px 0 0 rgb(0, 0, 0),
    -2px 0 0 rgb(0, 0, 0), 
@@ -131,37 +131,37 @@
    1px -1px 0 rgb(0, 0, 0), 
    -1px 1px 0 rgb(0, 0, 0);
 }
-.userPopout-xaxa6l {
+.userPopout-2j1gM4 {
    background-image: url("https://wallpaper.dog/large/20483517.jpg");
    background-size: cover;
 }
-.footer-3UKYOU {
+.footer-1Dc_h6 {
    background-color: transparent;
 }
-.bodyInnerWrapper-26fQXj {
+.bodyInnerWrapper-2bQs1k {
    background-color: transparent;
 }
-.input-2_SIlA {
+.input-2z42oC {
    background-color: rgba(255, 0, 0, 0.1);
 }
-.popoutBanner-19WKGg {
+.popoutBanner-3cqRD9 {
    background-color: transparent !important;
 }
-.avatar-37jOim {
+.avatar-2Vndt_ {
    background-color: transparent;
    border-color: transparent;
 }
-.root-3QyAh1 {
+.root-8LYsGj {
    background-image: url("https://wallpaper.dog/large/20483507.jpg") !important;
    background-position-y: 199px;
    background-size: cover;
 }
-.body-r6_QPy, .topSection-y3p-_D {
+.body-1Ukv50, .topSection-13QKHs {
    background-color: transparent;
 }
-.interactive-3B9GmY:hover {
+.interactive-2zD88a:hover {
    background-color: rgba(0, 0, 0, 0.5) !important;
 }
-.content-1o0f9g {
+.content-3spvdd {
     background-color: transparent;
 }
