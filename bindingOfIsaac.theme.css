@@ -304,5 +304,96 @@
     background-color: #ff000017;
 }
 .interactive-2zD88a:hover {
+    background-color: rgba(0, 0, 0, 0.641) !important;
+}
+.selected-1-Z6gm .layout-1qmrhw {
+    background: linear-gradient(45deg, #94222275, transparent);
+}
+.wrapper-3kah-n.selected-1Drb7Z .childWrapper-1j_1ub, .wrapper-3kah-n:hover .childWrapper-1j_1ub,
+.childWrapper-1j_1ub {
+    background: linear-gradient(45deg, #94222275, transparent);
+}
+.actionButton-3-B2x- {
+    background-color: linear-gradient(90deg, #94222275, transparent);
+}
+.messageContent-2t3eCI {
+    text-shadow: 
+    2px 0 0 rgb(0, 0, 0),
+    -2px 0 0 rgb(0, 0, 0), 
+    0 2px 0 rgb(0, 0, 0), 
+    0 -2px 0 rgb(0, 0, 0),
+    1px 1px rgb(0, 0, 0), 
+    -1px -1px 0 rgb(0, 0, 0), 
+    1px -1px 0 rgb(0, 0, 0), 
+    -1px 1px 0 rgb(0, 0, 0);
+}
+
+/*servidores*/
+.sidebar-1tnWFu {
+    background-color: transparent;
+}
+.container-1NXEtd {
+    background-color: transparent;
+}
+.members-3WRCEx, .members-3WRCEx>div {
+    background-color: transparent;
+}
+.container-2o3qEW {
+    background-color: transparent;
+}
+.content-3spvdd {
+    background-color: transparent;
+    color: #3e0f0f
+}
+
+/*userpopout*/
+.userPopout-2j1gM4 {
+    background-image: url('https://wallpapercave.com/wp/wp2264787.png');
+    background-size: cover;
+    background-position: -273px -90px;
+}
+.bodyInnerWrapper-2bQs1k {
+    background-color: transparent;
+}
+.textarea-_59yqs {
+    background-color: rgba(66, 7, 7, 0.541);
+}
+.footer-3naVBw {
+    background-color: transparent;
+}
+.input-2z42oC {
+    background-color: rgba(66, 7, 7, 0.541);
+}
+.popoutBanner-3cqRD9 {
+    background-color: transparent !important;
+}
+.textarea-_59yqs:focus {
+    background-color: rgba(90, 11, 11, 0.815);
+}
+/*root*/
+.root-g14mjS {
+    background-image: url('https://wallpapercave.com/wp/wp2264680.png');
+    background-size: cover;
+    background-position: -60px;
+}
+.body-1Ukv50, .topSection-13QKHs {
+    background-color: transparent;
+}
+.profileBanner-1owKI5 {
+    color: transparent !important;
+    background-color: transparent !important;
+}
+.sidebarRegionScroller-FXiQOh {
+    background-color: transparent;
+}
+.contentRegion-3HkfJJ {
+    background-color: transparent;
+}
+.contentRegionScroller-2_GT_N {
+    background-color: transparent;
+}
+.background-3d_SjE,
+.fieldList-in8WkP,
+.accountProfileCard-lbN7n- {
     background-color: rgba(0, 0, 0, 0.541);
 }
